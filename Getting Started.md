@@ -8,7 +8,7 @@
 - VS Code or any other IDE you are comfortable with [VS Code](https://code.visualstudio.com/),
 - GitBash (Git for Windows) [Gitbash](https://gitforwindows.org/),
 - Ruby [Ruby](https://www.ruby-lang.org/en/),
-- Python 3.7.9 **Important to have SAME stable release!!!** [Python](https://www.python.org/downloads/release/python-397/), 
+- Python 3.7.9 **Important to have SAME stable release!!!** [Python](https://www.python.org/downloads/release/python-379/), 
 - GCC for Windows (Use MinGw-w64) [Mingw-w64](https://www.mingw-w64.org/downloads/#mingw-builds),
 - CMake (might not be necessary) [CMake](https://cmake.org/).
 

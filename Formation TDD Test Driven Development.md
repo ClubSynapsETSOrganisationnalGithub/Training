@@ -1,14 +1,13 @@
 # Formation TDD Test Driven Development et principes de l'orienté object
 
-Le but de cette formation est de permettre aux membres du club d'avoir un compréhension du TDD et de pouvoir travailler sur en collaboration sur un environnement compatible entre eux.
+Le but de cette formation est de permettre aux membres du club d'avoir un compréhension du TDD et de pouvoir travailler sur en collaboration sur un environnement vde programmation compatible pour tous.
 Nous allons aussi introduire les membres aux bases de la programmation orienté object en C.
 
-
-## Déroulement de la formation 
+## Déroulement de la formation
 
 1. Comment faire le setup de votre environnement de programmation sur Windows pour les projets du club. 
 
-2. Qu'est-ce que Ceedling? 
+2. Qu'est-ce que Ceedling?
 
 3. Comment utiliser Ceedling?
 
