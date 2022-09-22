@@ -55,6 +55,7 @@ For GCC, follow instructions at [Website](https://techsupportwhale.com/install-g
 - GitLens -- Git supercharged
 - Git Graph
 - LiveShare
+- Expressif IDF
 
 ### How to setup Ceedling, Unity, CMock and CExeptions
 
