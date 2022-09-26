@@ -18,6 +18,8 @@ For Ruby, after starting download make sure you : **Uncheck Run ridk install to 
 
 For Gitbash, no specific task to do.
 
+Jacques!!! T'as ounlié de mettre les instructions pour ajouter une clé SSH. Qu'Est-ce que tu fais!
+
 For Python, before installing **make sure to delete any running instance of python and uninstall other versions of python**. 
 Then check:
 - System root C:\
@@ -62,6 +64,10 @@ For GCC, follow instructions at [Website](https://techsupportwhale.com/install-g
 Write follow command in gitbash (**After having setup MINGW64**):  gem install ceedling
 
 Go to the Ceedling website [Ceedling](http://www.throwtheswitch.org/), find link to github repo to download Unity, CMock and CException from the github repo [Throw the switch](https://github.com/ThrowTheSwitch).
+
+# How to organize files when working on club projets
+
+Jacques!!! T'as oublié d'indiquer qu'il faut créer le repo SynapseDev dans notre disque local "C:\"
 
                              
 
